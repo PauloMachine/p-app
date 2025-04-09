@@ -11,7 +11,7 @@ export const NavigationBar = () => {
       <ul className='hidden lx:flex gap-[40px] items-center'>
         <li>
           <a href='#' className='hover:underline font-grotesk'>
-            About Us
+            About us
           </a>
         </li>
         <li>

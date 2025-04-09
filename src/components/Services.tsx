@@ -98,7 +98,7 @@ export const Services = () => {
                 </a>
               </div>
             </div>
-            <img src={service.img} alt={service.title} className='w-[210px] h-full' />
+            <img src={service.img} alt={service.title} className='w-[210px] h-auto' />
           </div>
         ))}
       </div>
